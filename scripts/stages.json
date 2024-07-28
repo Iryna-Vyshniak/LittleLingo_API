@@ -1,0 +1,223 @@
+{
+  "stage_a": {
+    "alphabet": [
+      {
+        "label": "A",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996711/abc/A.png",
+        "sound": "https://archive.org/download/o_20240726/a.mp3"
+      },
+      {
+        "label": "B",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996709/abc/B.png",
+        "sound": "https://archive.org/download/o_20240726/b.mp3"
+      },
+      {
+        "label": "C",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996708/abc/C.png",
+        "sound": "https://archive.org/download/o_20240726/c.mp3"
+      },
+      {
+        "label": "D",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996701/abc/D.png",
+        "sound": "https://archive.org/download/o_20240726/d.mp3"
+      },
+      {
+        "label": "E",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996698/abc/E.png",
+        "sound": "https://archive.org/download/o_20240726/e.mp3"
+      },
+      {
+        "label": "F",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996706/abc/F.png",
+        "sound": "https://archive.org/download/o_20240726/f.mp3"
+      },
+      {
+        "label": "G",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996705/abc/G.png",
+        "sound": "https://archive.org/download/o_20240726/g.mp3"
+      },
+      {
+        "label": "H",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996702/abc/H.png",
+        "sound": "https://archive.org/download/o_20240726/h.mp3"
+      },
+      {
+        "label": "I",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996700/abc/I.png",
+        "sound": "https://archive.org/download/o_20240726/i.mp3"
+      },
+      {
+        "label": "J",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996697/abc/J.png",
+        "sound": "https://archive.org/download/o_20240726/j.mp3"
+      },
+      {
+        "label": "K",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996696/abc/K.png",
+        "sound": "https://archive.org/download/o_20240726/k.mp3"
+      },
+      {
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/L.png",
+        "sound": "https://archive.org/download/o_20240726/l.mp3"
+      },
+      {
+        "label": "M",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996691/abc/M.png",
+        "sound": "https://archive.org/download/o_20240726/m.mp3"
+      },
+      {
+        "label": "N",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/N.png",
+        "sound": "https://archive.org/download/o_20240726/n.mp3"
+      },
+      {
+        "label": "O",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996687/abc/O.png",
+        "sound": "https://archive.org/download/o_20240726/o.mp3"
+      },
+      {
+        "label": "P",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996694/abc/P.png",
+        "sound": "https://archive.org/download/o_20240726/p.mp3"
+      },
+      {
+        "label": "Q",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/Q.png",
+        "sound": "https://archive.org/download/o_20240726/q.mp3"
+      },
+      {
+        "label": "R",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996690/abc/R.png",
+        "sound": "https://archive.org/download/o_20240726/r.mp3"
+      },
+      {
+        "label": "S",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/S.png",
+        "sound": "https://archive.org/download/o_20240726/s.mp3"
+      },
+      {
+        "label": "T",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996686/abc/T.png",
+        "sound": "https://archive.org/download/o_20240726/t.mp3"
+      },
+      {
+        "label": "U",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996685/abc/U.png",
+        "sound": "https://archive.org/download/o_20240726/u.mp3"
+      },
+      {
+        "label": "V",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996683/abc/V.png",
+        "sound": "https://archive.org/download/o_20240726/v.mp3"
+      },
+      {
+        "label": "W",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/W.png",
+        "sound": "https://archive.org/download/o_20240726/w.mp3"
+      },
+      {
+        "label": "X",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996684/abc/X.png",
+        "sound": "https://archive.org/download/o_20240726/x.mp3"
+      },
+      {
+        "label": "Y",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/Y.png",
+        "sound": "https://archive.org/download/o_20240726/y.mp3"
+      },
+      {
+        "label": "Z",
+        "category": "alphabet",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996681/abc/Z.png",
+        "sound": "https://archive.org/download/o_20240726/z.mp3"
+      }
+    ],
+    "colors": [
+      {
+        "label": "Red",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996051/colors/red.png",
+        "sound": "https://archive.org/download/turquoise_202407/red.mp3"
+      },
+      {
+        "label": "Green",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/green.png",
+        "sound": "https://archive.org/download/turquoise_202407/green.mp3"
+      },
+      {
+        "label": "Blue",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/blue.png",
+        "sound": "https://archive.org/download/turquoise_202407/blue.mp3"
+      },
+      {
+        "label": "Yellow",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996049/colors/yellow.png",
+        "sound": "https://archive.org/download/turquoise_202407/yellow.mp3"
+      },
+      {
+        "label": "Black",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996049/colors/black.png",
+        "sound": "https://archive.org/download/turquoise_202407/black.mp3"
+      },
+      {
+        "label": "Purple",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/purple.png",
+        "sound": "https://archive.org/download/turquoise_202407/purple.mp3"
+      },
+      {
+        "label": "Pink",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/pink.png",
+        "sound": "https://archive.org/download/turquoise_202407/pink.mp3"
+      },
+      {
+        "label": "Brown",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/brown.png",
+        "sound": "https://archive.org/download/turquoise_202407/brown.mp3"
+      },
+      {
+        "label": "Gray",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/gray.png",
+        "sound": "https://archive.org/download/turquoise_202407/gray.mp3"
+      },
+      {
+        "label": "Navy",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/navy.png",
+        "sound": "https://archive.org/download/turquoise_202407/navy.mp3"
+      }
+    ]
+  }
+}
