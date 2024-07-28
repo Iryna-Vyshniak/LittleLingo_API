@@ -1,5 +1,8 @@
 import { Schema, model } from 'mongoose';
 
+import handleMongooseError from '../helpers/handleMongooseError.js';
+import addUpdateSettings from '../helpers/addUpdateSettings.js';
+
 // Scheme for alphabet with automatic creation of _id
 const alphabetSchema = new Schema(
   {
@@ -38,6 +41,10 @@ const StagesSchema = new Schema(
   },
   { _id: false, versionKey: false },
 );
+
+StagesSchema.post('save', handleMongooseError);
+StagesSchema.pre('findOneAndUpdate', addUpdateSettings);
+StagesSchema.post('findOneAndUpdate', handleMongooseError);
 
 const Stages = model('Stages', StagesSchema);
 
