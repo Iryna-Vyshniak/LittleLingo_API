@@ -8,7 +8,8 @@ const alphabetSchema = new Schema(
   {
     label: String,
     category: String,
-    image: String,
+    imageCapitalLetter: String,
+    imageSmallLetter: String,
     sound: String,
   },
   { _id: true },
