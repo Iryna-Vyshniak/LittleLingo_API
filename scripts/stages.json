@@ -4,156 +4,182 @@
       {
         "label": "A",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996711/abc/A.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996711/abc/A.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/Aa.png",
         "sound": "https://archive.org/download/o_20240726/a.mp3"
       },
       {
         "label": "B",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996709/abc/B.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996709/abc/B.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/bb.png",
         "sound": "https://archive.org/download/o_20240726/b.mp3"
       },
       {
         "label": "C",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996708/abc/C.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996708/abc/C.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/cc.png",
         "sound": "https://archive.org/download/o_20240726/c.mp3"
       },
       {
         "label": "D",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996701/abc/D.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996701/abc/D.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/dd.png",
         "sound": "https://archive.org/download/o_20240726/d.mp3"
       },
       {
         "label": "E",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996698/abc/E.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996698/abc/E.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ee.png",
         "sound": "https://archive.org/download/o_20240726/e.mp3"
       },
       {
         "label": "F",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996706/abc/F.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996706/abc/F.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ff.png",
         "sound": "https://archive.org/download/o_20240726/f.mp3"
       },
       {
         "label": "G",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996705/abc/G.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996705/abc/G.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/gg.png",
         "sound": "https://archive.org/download/o_20240726/g.mp3"
       },
       {
         "label": "H",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996702/abc/H.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996702/abc/H.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/hh.png",
         "sound": "https://archive.org/download/o_20240726/h.mp3"
       },
       {
         "label": "I",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996700/abc/I.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996700/abc/I.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ii.png",
         "sound": "https://archive.org/download/o_20240726/i.mp3"
       },
       {
         "label": "J",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996697/abc/J.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996697/abc/J.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/jj.png",
         "sound": "https://archive.org/download/o_20240726/j.mp3"
       },
       {
         "label": "K",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996696/abc/K.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996696/abc/K.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/kk.png",
         "sound": "https://archive.org/download/o_20240726/k.mp3"
       },
       {
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/L.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/L.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/ll.png",
         "sound": "https://archive.org/download/o_20240726/l.mp3"
       },
       {
         "label": "M",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996691/abc/M.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996691/abc/M.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/mm.png",
         "sound": "https://archive.org/download/o_20240726/m.mp3"
       },
       {
         "label": "N",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/N.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/N.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/nn.png",
         "sound": "https://archive.org/download/o_20240726/n.mp3"
       },
       {
         "label": "O",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996687/abc/O.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996687/abc/O.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/oo.png",
         "sound": "https://archive.org/download/o_20240726/o.mp3"
       },
       {
         "label": "P",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996694/abc/P.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996694/abc/P.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/pp.png",
         "sound": "https://archive.org/download/o_20240726/p.mp3"
       },
       {
         "label": "Q",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/Q.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996693/abc/Q.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/qq.png",
         "sound": "https://archive.org/download/o_20240726/q.mp3"
       },
       {
         "label": "R",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996690/abc/R.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996690/abc/R.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/rr.png",
         "sound": "https://archive.org/download/o_20240726/r.mp3"
       },
       {
         "label": "S",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/S.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996688/abc/S.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ss.png",
         "sound": "https://archive.org/download/o_20240726/s.mp3"
       },
       {
         "label": "T",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996686/abc/T.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996686/abc/T.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/tt.png",
         "sound": "https://archive.org/download/o_20240726/t.mp3"
       },
       {
         "label": "U",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996685/abc/U.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996685/abc/U.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/uu.png",
         "sound": "https://archive.org/download/o_20240726/u.mp3"
       },
       {
         "label": "V",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996683/abc/V.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996683/abc/V.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/vv.png",
         "sound": "https://archive.org/download/o_20240726/v.mp3"
       },
       {
         "label": "W",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/W.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/W.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ww.png",
         "sound": "https://archive.org/download/o_20240726/w.mp3"
       },
       {
         "label": "X",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996684/abc/X.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996684/abc/X.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/xx.png",
         "sound": "https://archive.org/download/o_20240726/x.mp3"
       },
       {
         "label": "Y",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/Y.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996682/abc/Y.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/yy.png",
         "sound": "https://archive.org/download/o_20240726/y.mp3"
       },
       {
         "label": "Z",
         "category": "alphabet",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996681/abc/Z.png",
+        "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996681/abc/Z.png",
+        "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/zz.png",
         "sound": "https://archive.org/download/o_20240726/z.mp3"
       }
     ],
