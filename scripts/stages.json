@@ -188,62 +188,74 @@
       {
         "label": "Red",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996051/colors/red.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155521/colors/red-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/red.mp3"
       },
       {
         "label": "Green",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/green.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155482/colors/green-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/green.mp3"
       },
       {
         "label": "Blue",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/blue.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158932/colors/blue-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/blue.mp3"
       },
       {
         "label": "Yellow",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996049/colors/yellow.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724164643/colors/yellow-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/yellow.mp3"
       },
       {
         "label": "Black",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996049/colors/black.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155756/colors/black-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/black.mp3"
       },
       {
         "label": "Purple",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/purple.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155510/colors/purple-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/purple.mp3"
       },
       {
         "label": "Pink",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/pink.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158382/colors/pink-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/pink.mp3"
       },
       {
         "label": "Brown",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/brown.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158315/colors/brown-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/brown.mp3"
       },
       {
         "label": "Gray",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/gray.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155747/colors/gray-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/gray.mp3"
       },
       {
         "label": "Navy",
         "category": "colors",
-        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1721996048/colors/navy.png",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155498/colors/navy-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/navy.mp3"
+      },
+      {
+        "label": "Orange",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158790/colors/orange-potion.png",
+        "sound": "https://archive.org/download/little-girl-says-orange-188230/little-girl-says-orange-188230.mp3"
+      },
+      {
+        "label": "White",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158354/colors/white-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/white.mp3"
       }
     ]
   }
