@@ -6,42 +6,42 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766111/abc/AAA.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/Aa.png",
-        "sound": "https://archive.org/download/1621837001-letter-a/1621837001_letter-a.mp3"
+        "sound": "https://archive.org/download/a_20240821/a.mp3"
       },
       {
         "label": "B",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766108/abc/BBB.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/bb.png",
-        "sound": "https://archive.org/download/o_20240726/b.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/b.mp3"
       },
       {
         "label": "C",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766107/abc/CCC.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/cc.png",
-        "sound": "https://archive.org/download/o_20240726/c.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/c.mp3"
       },
       {
         "label": "D",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766104/abc/DDD.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/dd.png",
-        "sound": "https://archive.org/download/o_20240726/d.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/d.mp3"
       },
       {
         "label": "E",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766102/abc/EEE.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ee.png",
-        "sound": "https://archive.org/download/o_20240726/e.mp3"
+        "sound": "https://archive.org/download/a_20240821/e.mp3"
       },
       {
         "label": "F",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766099/abc/FFF.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ff.png",
-        "sound": "https://archive.org/download/o_20240726/f.mp3"
+        "sound": "https://archive.org/download/a_20240821/f.mp3"
       },
       {
         "label": "G",
@@ -62,7 +62,7 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766089/abc/III.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ii.png",
-        "sound": "https://archive.org/download/o_20240726/i.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/i.mp3"
       },
       {
         "label": "J",
@@ -90,7 +90,7 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766079/abc/MMM.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/mm.png",
-        "sound": "https://archive.org/download/o_20240726/m.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/m.mp3"
       },
       {
         "label": "N",
@@ -125,21 +125,21 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766068/abc/RRR.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/rr.png",
-        "sound": "https://archive.org/download/o_20240726/r.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/r.mp3"
       },
       {
         "label": "S",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766066/abc/SSS.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ss.png",
-        "sound": "https://archive.org/download/o_20240726/s.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/s.mp3"
       },
       {
         "label": "T",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766065/abc/TTT.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/tt.png",
-        "sound": "https://archive.org/download/o_20240726/t.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/t.mp3"
       },
       {
         "label": "U",
@@ -153,21 +153,21 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766061/abc/VVV.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/vv.png",
-        "sound": "https://archive.org/download/o_20240726/v.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/v.mp3"
       },
       {
         "label": "W",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766057/abc/WWW.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ww.png",
-        "sound": "https://archive.org/download/o_20240726/w.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/w.mp3"
       },
       {
         "label": "X",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766053/abc/XXX.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/xx.png",
-        "sound": "https://archive.org/download/o_20240726/x.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/x%20%282%29.mp3"
       },
       {
         "label": "Y",
@@ -181,7 +181,7 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766049/abc/ZZZ.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/zz.png",
-        "sound": "https://archive.org/download/o_20240726/z.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/z.mp3"
       }
     ],
     "colors": [
@@ -256,6 +256,74 @@
         "category": "colors",
         "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158354/colors/white-potion.png",
         "sound": "https://archive.org/download/turquoise_202407/white.mp3"
+      }
+    ],
+    "numbers": [
+      {
+        "label": "zero",
+        "number": "0",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/zero.mp3"
+      },
+      {
+        "label": "one",
+        "number": "1",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/one%20%282%29.mp3"
+      },
+      {
+        "label": "two",
+        "number": "2",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/two.mp3"
+      },
+      {
+        "label": "three",
+        "number": "3",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/three.mp3"
+      },
+      {
+        "label": "four",
+        "number": "4",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/four.mp3"
+      },
+      {
+        "label": "five",
+        "number": "5",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/five%20%282%29.mp3"
+      },
+      {
+        "label": "six",
+        "number": "6",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/six%20%282%29.mp3"
+      },
+      {
+        "label": "seven",
+        "number": "7",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/seven.mp3"
+      },
+      {
+        "label": "eight",
+        "number": "8",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/eight.mp3"
+      },
+      {
+        "label": "nine",
+        "number": "9",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/nine.mp3"
+      },
+      {
+        "label": "ten",
+        "number": "10",
+        "category": "numbers",
+        "sound": "https://archive.org/download/touch-the-screen_202408/ten.mp3"
       }
     ]
   }

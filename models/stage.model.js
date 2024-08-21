@@ -25,12 +25,23 @@ const colorsSchema = new Schema(
   },
   { _id: true },
 );
+// Scheme for colors with automatic creation of _id
+const numbersSchema = new Schema(
+  {
+    label: String,
+    number: String,
+    category: String,
+    sound: String,
+  },
+  { _id: true },
+);
 
 // Scheme for stage_a
 const stageASchema = new Schema(
   {
     alphabet: [alphabetSchema],
     colors: [colorsSchema],
+    numbers: [numbersSchema],
   },
   { _id: false },
 );
