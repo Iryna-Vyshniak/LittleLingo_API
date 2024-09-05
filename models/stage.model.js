@@ -31,6 +31,17 @@ const numbersSchema = new Schema(
     label: String,
     number: String,
     category: String,
+    imageUrl: String,
+    sound: String,
+  },
+  { _id: true },
+);
+// Scheme for animals with automatic creation of _id
+const animalsSchema = new Schema(
+  {
+    name: String,
+    category: String,
+    imageUrl: String,
     sound: String,
   },
   { _id: true },
@@ -42,6 +53,17 @@ const stageASchema = new Schema(
     alphabet: [alphabetSchema],
     colors: [colorsSchema],
     numbers: [numbersSchema],
+    animals: [animalsSchema],
+  },
+  { _id: false },
+);
+// Scheme for stage_b
+const stageBSchema = new Schema(
+  {
+    alphabet: [alphabetSchema],
+    colors: [colorsSchema],
+    numbers: [numbersSchema],
+    animals: [animalsSchema],
   },
   { _id: false },
 );
@@ -50,6 +72,7 @@ const stageASchema = new Schema(
 const StagesSchema = new Schema(
   {
     stage_a: stageASchema,
+    stage_b: stageBSchema,
   },
   { _id: false, versionKey: false },
 );
