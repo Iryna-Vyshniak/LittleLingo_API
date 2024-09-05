@@ -263,67 +263,405 @@
         "label": "zero",
         "number": "0",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725533328/numbers/Baby_Dragon_230_1_jq7cca.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/zero.mp3"
       },
       {
         "label": "one",
         "number": "1",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725528326/numbers/Baby_Dragon_196_jxovon.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/one%20%282%29.mp3"
       },
       {
         "label": "two",
         "number": "2",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527991/numbers/Baby_Dragon_240_afkjqn.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/two.mp3"
       },
       {
         "label": "three",
         "number": "3",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527951/numbers/Baby_Dragon_225_x62snr.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/three.mp3"
       },
       {
         "label": "four",
         "number": "4",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527889/numbers/Baby_Dragon_264_wcquob.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/four.mp3"
       },
       {
         "label": "five",
         "number": "5",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527870/numbers/Baby_Dragon_285_ujd7il.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/five%20%282%29.mp3"
       },
       {
         "label": "six",
         "number": "6",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527804/numbers/Baby_Dragon_77_nqq0u5.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/six%20%282%29.mp3"
       },
       {
         "label": "seven",
         "number": "7",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527804/numbers/Baby_Dragon_94_wy1arq.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/seven.mp3"
       },
       {
         "label": "eight",
         "number": "8",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527604/numbers/Baby_Dragon_10_s39cpv.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/eight.mp3"
       },
       {
         "label": "nine",
         "number": "9",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527802/numbers/Baby_Dragon_115_utarqo.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/nine.mp3"
       },
       {
         "label": "ten",
         "number": "10",
         "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527624/numbers/Baby_Dragon_103_ezqvqm.png",
         "sound": "https://archive.org/download/touch-the-screen_202408/ten.mp3"
+      }
+    ],
+    "animals": [
+      {
+        "name": "Cow",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529134/animals/2-cow.png",
+        "sound": "https://archive.org/download/horse_202409/cow.mp3"
+      },
+      {
+        "name": "Goose",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529194/animals/goose.png",
+        "sound": "https://archive.org/download/horse_202409/goose.mp3"
+      },
+      {
+        "name": "Horse",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529189/animals/1-horse.png",
+        "sound": "https://archive.org/download/horse_202409/horse.mp3"
+      },
+      {
+        "name": "Pig",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529139/animals/1-pig.png",
+        "sound": "https://archive.org/download/horse_202409/pig.mp3"
+      },
+      {
+        "name": "Goat",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529195/animals/1-goat.png",
+        "sound": "https://archive.org/download/horse_202409/goat.mp3"
+      },
+      {
+        "name": "Sheep",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529136/animals/1-sheep.png",
+        "sound": "https://archive.org/download/horse_202409/sheep.mp3"
+      },
+      {
+        "name": "Cat",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529180/animals/1-cat.png",
+        "sound": "https://archive.org/download/horse_202409/cat.mp3"
+      },
+      {
+        "name": "Dog",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529182/animals/2-dog.png",
+        "sound": "https://archive.org/download/horse_202409/dog.mp3"
+      },
+      {
+        "name": "Turkey",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529126/animals/1-turkey.png",
+        "sound": "https://archive.org/download/turkey_202409/turkey.mp3"
+      },
+      {
+        "name": "Donkey",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529174/animals/1-donkey.png",
+        "sound": "https://archive.org/download/horse_202409/donkey.mp3"
+      },
+      {
+        "name": "Duck",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529129/animals/duck.png",
+        "sound": "https://archive.org/download/horse_202409/duck.mp3"
+      },
+      {
+        "name": "Chicken",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529178/animals/1-chicken.png",
+        "sound": "https://archive.org/download/horse_202409/chicken.mp3"
+      },
+      {
+        "name": "Rooster",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529131/animals/1-rooster.png",
+        "sound": "https://archive.org/download/horse_202409/rooster.mp3"
+      },
+      {
+        "name": "Rabbit",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529117/animals/2-rabbit.png",
+        "sound": "https://archive.org/download/horse_202409/rabbit.mp3"
+      }
+    ]
+  },
+  "stage_b": {
+    "colors": [
+      {
+        "label": "Red",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155521/colors/red-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/red.mp3"
+      },
+      {
+        "label": "Green",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155482/colors/green-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/green.mp3"
+      },
+      {
+        "label": "Blue",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158932/colors/blue-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/blue.mp3"
+      },
+      {
+        "label": "Yellow",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724164643/colors/yellow-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/yellow.mp3"
+      },
+      {
+        "label": "Black",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155756/colors/black-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/black.mp3"
+      },
+      {
+        "label": "Purple",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155510/colors/purple-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/purple.mp3"
+      },
+      {
+        "label": "Pink",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158382/colors/pink-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/pink.mp3"
+      },
+      {
+        "label": "Brown",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158315/colors/brown-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/brown.mp3"
+      },
+      {
+        "label": "Gray",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155747/colors/gray-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/gray.mp3"
+      },
+      {
+        "label": "Navy",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724155498/colors/navy-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/navy.mp3"
+      },
+      {
+        "label": "Orange",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158790/colors/orange-potion.png",
+        "sound": "https://archive.org/download/little-girl-says-orange-188230/little-girl-says-orange-188230.mp3"
+      },
+      {
+        "label": "White",
+        "category": "colors",
+        "image": "https://res.cloudinary.com/dkqxaid79/image/upload/v1724158354/colors/white-potion.png",
+        "sound": "https://archive.org/download/turquoise_202407/white.mp3"
+      }
+    ],
+    "numbers": [
+      {
+        "label": "zero",
+        "number": "0",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725533328/numbers/Baby_Dragon_230_1_jq7cca.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/zero.mp3"
+      },
+      {
+        "label": "one",
+        "number": "1",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725528326/numbers/Baby_Dragon_196_jxovon.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/one%20%282%29.mp3"
+      },
+      {
+        "label": "two",
+        "number": "2",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527991/numbers/Baby_Dragon_240_afkjqn.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/two.mp3"
+      },
+      {
+        "label": "three",
+        "number": "3",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527951/numbers/Baby_Dragon_225_x62snr.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/three.mp3"
+      },
+      {
+        "label": "four",
+        "number": "4",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527889/numbers/Baby_Dragon_264_wcquob.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/four.mp3"
+      },
+      {
+        "label": "five",
+        "number": "5",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527870/numbers/Baby_Dragon_285_ujd7il.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/five%20%282%29.mp3"
+      },
+      {
+        "label": "six",
+        "number": "6",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527804/numbers/Baby_Dragon_77_nqq0u5.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/six%20%282%29.mp3"
+      },
+      {
+        "label": "seven",
+        "number": "7",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527804/numbers/Baby_Dragon_94_wy1arq.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/seven.mp3"
+      },
+      {
+        "label": "eight",
+        "number": "8",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527604/numbers/Baby_Dragon_10_s39cpv.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/eight.mp3"
+      },
+      {
+        "label": "nine",
+        "number": "9",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527802/numbers/Baby_Dragon_115_utarqo.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/nine.mp3"
+      },
+      {
+        "label": "ten",
+        "number": "10",
+        "category": "numbers",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725527624/numbers/Baby_Dragon_103_ezqvqm.png",
+        "sound": "https://archive.org/download/touch-the-screen_202408/ten.mp3"
+      }
+    ],
+    "animals": [
+      {
+        "name": "Cow",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529190/animals/1-cow.png",
+        "sound": "https://archive.org/download/horse_202409/cow.mp3"
+      },
+      {
+        "name": "Goose",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529194/animals/goose.png",
+        "sound": "https://archive.org/download/horse_202409/goose.mp3"
+      },
+      {
+        "name": "Horse",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529133/animals/2-horse.png",
+        "sound": "https://archive.org/download/horse_202409/horse.mp3"
+      },
+      {
+        "name": "Pig",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529139/animals/1-pig.png",
+        "sound": "https://archive.org/download/horse_202409/pig.mp3"
+      },
+      {
+        "name": "Goat",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529138/animals/white-goat.png",
+        "sound": "https://archive.org/download/horse_202409/goat.mp3"
+      },
+      {
+        "name": "Sheep",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529136/animals/1-sheep.png",
+        "sound": "https://archive.org/download/horse_202409/sheep.mp3"
+      },
+      {
+        "name": "Cat",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529180/animals/1-cat.png",
+        "sound": "https://archive.org/download/horse_202409/cat.mp3"
+      },
+      {
+        "name": "Dog",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529185/animals/1-dog.png",
+        "sound": "https://archive.org/download/horse_202409/dog.mp3"
+      },
+      {
+        "name": "Turkey",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529125/animals/2-turkey.png",
+        "sound": "https://archive.org/download/turkey_202409/turkey.mp3"
+      },
+      {
+        "name": "Donkey",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529144/animals/2-donkey.png",
+        "sound": "https://archive.org/download/horse_202409/donkey.mp3"
+      },
+      {
+        "name": "Duck",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529129/animals/duck.png",
+        "sound": "https://archive.org/download/horse_202409/duck.mp3"
+      },
+      {
+        "name": "Chicken",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529178/animals/1-chicken.png",
+        "sound": "https://archive.org/download/horse_202409/chicken.mp3"
+      },
+      {
+        "name": "Rooster",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529128/animals/2-rooster.png",
+        "sound": "https://archive.org/download/horse_202409/rooster.mp3"
+      },
+      {
+        "name": "Rabbit",
+        "category": "animal",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529140/animals/1-rabbit.png",
+        "sound": "https://archive.org/download/horse_202409/rabbit.mp3"
       }
     ]
   }
