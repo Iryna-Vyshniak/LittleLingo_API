@@ -8,7 +8,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/Aa.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/amulet_u3umpw.png",
         "description": "amulet",
-        "sound": "https://archive.org/download/a_20240821/a.mp3"
+        "sound": "https://archive.org/download/a_20240821/a.mp3",
+        "soundDescr": "https://archive.org/download/letter-descriptions/LetterA-amulet.mp3",
+        "transcription": "[ei]"
       },
       {
         "label": "B",
@@ -17,7 +19,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/bb.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/ball_rwnucf.png",
         "description": "ball",
-        "sound": "https://archive.org/download/touch-the-screen_202408/b.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/b.mp3",
+        "soundDescr": "https://archive.org/download/letter-descriptions/LetterB-ball.mp3",
+        "transcription": "[bi:]"
       },
       {
         "label": "C",
@@ -26,7 +30,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/cc.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049107/abc/cauldron_bvw4td.png",
         "description": "cauldron",
-        "sound": "https://archive.org/download/touch-the-screen_202408/c.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/c.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_49_44_Adam_pre_s39_sb43_t2.mp3",
+        "transcription": "[si:]"
       },
       {
         "label": "D",
@@ -35,7 +41,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/dd.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/dobby_bc8hcu.png",
         "description": "dobby",
-        "sound": "https://archive.org/download/touch-the-screen_202408/d.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/d.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_50_41_Alice_pre_s50_sb75_t2.mp3",
+        "transcription": "[di:]"
       },
       {
         "label": "E",
@@ -44,7 +52,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ee.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/egg_g3nm81.png",
         "description": "egg",
-        "sound": "https://archive.org/download/a_20240821/e.mp3"
+        "sound": "https://archive.org/download/a_20240821/e.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_51_15_Aria_pre_s50_sb75_t2.mp3",
+        "transcription": "[i:]"
       },
       {
         "label": "F",
@@ -53,7 +63,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ff.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049085/abc/flame_dyduvw.png",
         "description": "flame",
-        "sound": "https://archive.org/download/a_20240821/f.mp3"
+        "sound": "https://archive.org/download/a_20240821/f.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_53_55_Brian_pre_s50_sb75_t2.mp3",
+        "transcription": "[ef]"
       },
       {
         "label": "G",
@@ -62,7 +74,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/gg.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/goblet_gobfsa.png",
         "description": "goblet",
-        "sound": "https://archive.org/download/1621837383-letter-p/1621837208_letter-g.mp3"
+        "sound": "https://archive.org/download/1621837383-letter-p/1621837208_letter-g.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_01_04_Brian_pre_s66_sb61_t2.mp3",
+        "transcription": "[dʒi:]"
       },
       {
         "label": "H",
@@ -71,7 +85,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/hh.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/hat_i96d7v.png",
         "description": "hat",
-        "sound": "https://archive.org/download/o_20240726/h.mp3"
+        "sound": "https://archive.org/download/o_20240726/h.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_03_34_Alice_pre_s72_sb64_t2.mp3",
+        "transcription": "[eɪtʃ]"
       },
       {
         "label": "I",
@@ -80,7 +96,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ii.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049093/abc/incantation_tkzs2v.png",
         "description": "incantation",
-        "sound": "https://archive.org/download/touch-the-screen_202408/i.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/i.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_04_52_Charlotte_pre_s72_sb64_t2.mp3",
+        "transcription": "[aɪ]"
       },
       {
         "label": "J",
@@ -89,7 +107,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/jj.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/jewel_y1jk2s.png",
         "description": "jewel",
-        "sound": "https://archive.org/download/o_20240726/j.mp3"
+        "sound": "https://archive.org/download/o_20240726/j.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_05_26_Daniel_pre_s72_sb64_t2.mp3",
+        "transcription": "[dʒeɪ]"
       },
       {
         "label": "K",
@@ -98,7 +118,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/kk.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/key_yxfsvk.png",
         "description": "key",
-        "sound": "https://archive.org/download/o_20240726/k.mp3"
+        "sound": "https://archive.org/download/o_20240726/k.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_06_17_Jessica_pre_s72_sb64_t2.mp3",
+        "transcription": "[keɪ]"
       },
       {
         "label": "L",
@@ -107,7 +129,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/ll.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/letter_2_kjkyip.png",
         "description": "letter",
-        "sound": "https://archive.org/download/o_20240726/l.mp3"
+        "sound": "https://archive.org/download/o_20240726/l.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_07_22_Gigi_pre_s72_sb64_t2.mp3",
+        "transcription": "[el]"
       },
       {
         "label": "M",
@@ -116,7 +140,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/mm.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/map_dyouyo.png",
         "description": "map",
-        "sound": "https://archive.org/download/touch-the-screen_202408/m.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/m.mp3",
+        "soundDescr": "",
+        "transcription": "[em]"
       },
       {
         "label": "N",
@@ -125,7 +151,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/nn.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/needle_hlqbjy.png",
         "description": "needle",
-        "sound": "https://archive.org/download/o_20240726/n.mp3"
+        "sound": "https://archive.org/download/o_20240726/n.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_09_09_Laura_pre_s72_sb64_t2.mp3",
+        "transcription": "[en]"
       },
       {
         "label": "O",
@@ -134,7 +162,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/oo.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/owl_jbjevd.png",
         "description": "owl",
-        "sound": "https://archive.org/download/1621837383-letter-p/1621837368_letter-o.mp3"
+        "sound": "https://archive.org/download/1621837383-letter-p/1621837368_letter-o.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_09_36_Brian_pre_s72_sb64_t2.mp3",
+        "transcription": "[oʊ]"
       },
       {
         "label": "P",
@@ -143,7 +173,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/pp.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049100/abc/potion_bx3bgc.png",
         "description": "potion",
-        "sound": "https://archive.org/download/1621837383-letter-p/1621837383_letter-p.mp3"
+        "sound": "https://archive.org/download/1621837383-letter-p/1621837383_letter-p.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_10_00_Aria_pre_s72_sb64_t2.mp3",
+        "transcription": "[pi:]"
       },
       {
         "label": "Q",
@@ -152,7 +184,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/qq.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/quill_adfwre.png",
         "description": "quill",
-        "sound": "https://archive.org/download/o_20240726/q.mp3"
+        "sound": "https://archive.org/download/o_20240726/q.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_10_36_Bill_pre_s72_sb64_t2.mp3",
+        "transcription": "[kju:]"
       },
       {
         "label": "R",
@@ -161,7 +195,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/rr.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/ring_cr96iq.png",
         "description": "ring",
-        "sound": "https://archive.org/download/touch-the-screen_202408/r.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/r.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_05_Charlotte_pre_s72_sb75_t2.mp3",
+        "transcription": "[ɑːr]"
       },
       {
         "label": "S",
@@ -170,7 +206,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ss.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/scarf_fgmo5t.png",
         "description": "scarf",
-        "sound": "https://archive.org/download/touch-the-screen_202408/s.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/s.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_34_Callum_pre_s72_sb75_t2.mp3",
+        "transcription": "[es]"
       },
       {
         "label": "T",
@@ -179,7 +217,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/tt.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/train_w8iedk.png",
         "description": "train",
-        "sound": "https://archive.org/download/touch-the-screen_202408/t.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/t.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_12_29_Callum_pre_s72_sb75_t2.mp3",
+        "transcription": "[ti:]"
       },
       {
         "label": "U",
@@ -188,7 +228,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/uu.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/unicorn_v3vtew.png",
         "description": "unicorn",
-        "sound": "https://archive.org/download/o_20240726/u.mp3"
+        "sound": "https://archive.org/download/o_20240726/u.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_13_02_River_pre_s72_sb64_t2.mp3",
+        "transcription": "[ju:]"
       },
       {
         "label": "V",
@@ -197,7 +239,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/vv.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/voldemort_msqq3v.png",
         "description": "voldemort",
-        "sound": "https://archive.org/download/touch-the-screen_202408/v.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/v.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_13_45_Nicole_pre_s72_sb64_t2.mp3",
+        "transcription": "[vi:]"
       },
       {
         "label": "W",
@@ -206,7 +250,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ww.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049930/abc/wizard_dzswhj.png",
         "description": "wizard",
-        "sound": "https://archive.org/download/touch-the-screen_202408/w.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/w.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_19_51_Nicole_pre_s50_sb75_t2.mp3",
+        "transcription": "[ˈdʌbəl.ju:]"
       },
       {
         "label": "X",
@@ -215,7 +261,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/xx.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727050421/abc/x-ray-vission.png",
         "description": "x-ray vision",
-        "sound": "https://archive.org/download/touch-the-screen_202408/x%20%282%29.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/x%20%282%29.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_20_22_Nicole_pre_s50_sb75_t2.mp3",
+        "transcription": "[eks]"
       },
       {
         "label": "Y",
@@ -224,7 +272,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/yy.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/yoda_ujcjcy.png",
         "description": "yoda",
-        "sound": "https://archive.org/download/q_20240726/Y.mp3"
+        "sound": "https://archive.org/download/q_20240726/Y.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_20_59_Thomas_pre_s50_sb75_t2.mp3",
+        "transcription": "[waɪ]"
       },
       {
         "label": "Z",
@@ -233,7 +283,9 @@
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/zz.png",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049085/abc/zebra_b3hulw.png",
         "description": "zebra",
-        "sound": "https://archive.org/download/touch-the-screen_202408/z.mp3"
+        "sound": "https://archive.org/download/touch-the-screen_202408/z.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_21_28_Charlotte_pre_s50_sb75_t2.mp3",
+        "transcription": "[zi:]"
       }
     ],
     "colors": [

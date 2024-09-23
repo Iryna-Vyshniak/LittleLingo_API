@@ -13,6 +13,8 @@ const alphabetSchema = new Schema(
     imageUrl: String,
     description: String,
     sound: String,
+    soundDescr: String,
+    transcription: String,
   },
   { _id: true },
 );
