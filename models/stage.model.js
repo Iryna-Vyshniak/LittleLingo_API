@@ -10,6 +10,8 @@ const alphabetSchema = new Schema(
     category: String,
     imageCapitalLetter: String,
     imageSmallLetter: String,
+    imageUrl: String,
+    description: String,
     sound: String,
   },
   { _id: true },
