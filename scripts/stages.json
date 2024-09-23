@@ -6,6 +6,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766111/abc/AAA.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/Aa.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/amulet_u3umpw.png",
+        "description": "amulet",
         "sound": "https://archive.org/download/a_20240821/a.mp3"
       },
       {
@@ -13,6 +15,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766108/abc/BBB.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/bb.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/ball_rwnucf.png",
+        "description": "ball",
         "sound": "https://archive.org/download/touch-the-screen_202408/b.mp3"
       },
       {
@@ -20,6 +24,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766107/abc/CCC.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/cc.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049107/abc/cauldron_bvw4td.png",
+        "description": "cauldron",
         "sound": "https://archive.org/download/touch-the-screen_202408/c.mp3"
       },
       {
@@ -27,6 +33,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766104/abc/DDD.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/dd.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/dobby_bc8hcu.png",
+        "description": "dobby",
         "sound": "https://archive.org/download/touch-the-screen_202408/d.mp3"
       },
       {
@@ -34,6 +42,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766102/abc/EEE.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ee.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/egg_g3nm81.png",
+        "description": "egg",
         "sound": "https://archive.org/download/a_20240821/e.mp3"
       },
       {
@@ -41,6 +51,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766099/abc/FFF.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ff.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049085/abc/flame_dyduvw.png",
+        "description": "flame",
         "sound": "https://archive.org/download/a_20240821/f.mp3"
       },
       {
@@ -48,6 +60,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766098/abc/GGG.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/gg.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/goblet_gobfsa.png",
+        "description": "goblet",
         "sound": "https://archive.org/download/1621837383-letter-p/1621837208_letter-g.mp3"
       },
       {
@@ -55,6 +69,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766092/abc/HHH.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/hh.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/hat_i96d7v.png",
+        "description": "hat",
         "sound": "https://archive.org/download/o_20240726/h.mp3"
       },
       {
@@ -62,6 +78,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766089/abc/III.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676674/abc/ii.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049093/abc/incantation_tkzs2v.png",
+        "description": "incantation",
         "sound": "https://archive.org/download/touch-the-screen_202408/i.mp3"
       },
       {
@@ -69,6 +87,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766086/abc/JJJ.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/jj.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/jewel_y1jk2s.png",
+        "description": "jewel",
         "sound": "https://archive.org/download/o_20240726/j.mp3"
       },
       {
@@ -76,6 +96,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766084/abc/KKK.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/kk.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/key_yxfsvk.png",
+        "description": "key",
         "sound": "https://archive.org/download/o_20240726/k.mp3"
       },
       {
@@ -83,6 +105,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766081/abc/LLL.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/ll.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/letter_2_kjkyip.png",
+        "description": "letter",
         "sound": "https://archive.org/download/o_20240726/l.mp3"
       },
       {
@@ -90,6 +114,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766079/abc/MMM.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/mm.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/map_dyouyo.png",
+        "description": "map",
         "sound": "https://archive.org/download/touch-the-screen_202408/m.mp3"
       },
       {
@@ -97,6 +123,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766075/abc/NNN.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/nn.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/needle_hlqbjy.png",
+        "description": "needle",
         "sound": "https://archive.org/download/o_20240726/n.mp3"
       },
       {
@@ -104,6 +132,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766074/abc/OOO.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/oo.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/owl_jbjevd.png",
+        "description": "owl",
         "sound": "https://archive.org/download/1621837383-letter-p/1621837368_letter-o.mp3"
       },
       {
@@ -111,6 +141,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766071/abc/PPP.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/pp.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049100/abc/potion_bx3bgc.png",
+        "description": "potion",
         "sound": "https://archive.org/download/1621837383-letter-p/1621837383_letter-p.mp3"
       },
       {
@@ -118,6 +150,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766070/abc/QQQ.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/qq.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/quill_adfwre.png",
+        "description": "quill",
         "sound": "https://archive.org/download/o_20240726/q.mp3"
       },
       {
@@ -125,6 +159,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766068/abc/RRR.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/rr.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/ring_cr96iq.png",
+        "description": "ring",
         "sound": "https://archive.org/download/touch-the-screen_202408/r.mp3"
       },
       {
@@ -132,6 +168,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766066/abc/SSS.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ss.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/scarf_fgmo5t.png",
+        "description": "scarf",
         "sound": "https://archive.org/download/touch-the-screen_202408/s.mp3"
       },
       {
@@ -139,6 +177,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766065/abc/TTT.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/tt.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/train_w8iedk.png",
+        "description": "train",
         "sound": "https://archive.org/download/touch-the-screen_202408/t.mp3"
       },
       {
@@ -146,6 +186,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766063/abc/UUU.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/uu.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/unicorn_v3vtew.png",
+        "description": "unicorn",
         "sound": "https://archive.org/download/o_20240726/u.mp3"
       },
       {
@@ -153,6 +195,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766061/abc/VVV.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676673/abc/vv.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/voldemort_msqq3v.png",
+        "description": "voldemort",
         "sound": "https://archive.org/download/touch-the-screen_202408/v.mp3"
       },
       {
@@ -160,6 +204,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766057/abc/WWW.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/ww.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049930/abc/wizard_dzswhj.png",
+        "description": "wizard",
         "sound": "https://archive.org/download/touch-the-screen_202408/w.mp3"
       },
       {
@@ -167,6 +213,8 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766053/abc/XXX.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/xx.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727050421/abc/x-ray-vission.png",
+        "description": "x-ray vision",
         "sound": "https://archive.org/download/touch-the-screen_202408/x%20%282%29.mp3"
       },
       {
@@ -174,13 +222,17 @@
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766049/abc/YYY.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/yy.png",
-        "sound": "https://archive.org/download/o_20240726/y.mp3"
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049086/abc/yoda_ujcjcy.png",
+        "description": "yoda",
+        "sound": "https://archive.org/download/q_20240726/Y.mp3"
       },
       {
         "label": "Z",
         "category": "alphabet",
         "imageCapitalLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722766049/abc/ZZZ.png",
         "imageSmallLetter": "https://res.cloudinary.com/dkqxaid79/image/upload/v1722676672/abc/zz.png",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049085/abc/zebra_b3hulw.png",
+        "description": "zebra",
         "sound": "https://archive.org/download/touch-the-screen_202408/z.mp3"
       }
     ],
