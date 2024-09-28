@@ -9,7 +9,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/amulet_u3umpw.png",
         "description": "amulet",
         "sound": "https://archive.org/download/a_20240821/a.mp3",
-        "soundDescr": "https://archive.org/download/letter-descriptions/LetterA-amulet.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/LetterA-amulet.mp3",
         "transcription": "[ei]"
       },
       {
@@ -20,7 +20,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049111/abc/ball_rwnucf.png",
         "description": "ball",
         "sound": "https://archive.org/download/touch-the-screen_202408/b.mp3",
-        "soundDescr": "https://archive.org/download/letter-descriptions/LetterB-ball.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/LetterB-ball.mp3",
         "transcription": "[bi:]"
       },
       {
@@ -31,7 +31,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049107/abc/cauldron_bvw4td.png",
         "description": "cauldron",
         "sound": "https://archive.org/download/touch-the-screen_202408/c.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_49_44_Adam_pre_s39_sb43_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/LetterC.mp3",
         "transcription": "[si:]"
       },
       {
@@ -42,7 +42,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/dobby_bc8hcu.png",
         "description": "dobby",
         "sound": "https://archive.org/download/touch-the-screen_202408/d.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_50_41_Alice_pre_s50_sb75_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/LetterD.mp3",
         "transcription": "[di:]"
       },
       {
@@ -53,7 +53,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049106/abc/egg_g3nm81.png",
         "description": "egg",
         "sound": "https://archive.org/download/a_20240821/e.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T11_51_15_Aria_pre_s50_sb75_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/LetterE.mp3",
         "transcription": "[i:]"
       },
       {
@@ -141,7 +141,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049101/abc/map_dyouyo.png",
         "description": "map",
         "sound": "https://archive.org/download/touch-the-screen_202408/m.mp3",
-        "soundDescr": "",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T23_43_24_Charlotte_pre_s50_sb75_t2.mp3",
         "transcription": "[em]"
       },
       {
@@ -196,7 +196,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/ring_cr96iq.png",
         "description": "ring",
         "sound": "https://archive.org/download/touch-the-screen_202408/r.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_05_Charlotte_pre_s72_sb75_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_05_Charlotte_pre_s72_sb64_t2.mp3",
         "transcription": "[ɑːr]"
       },
       {
@@ -207,7 +207,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/scarf_fgmo5t.png",
         "description": "scarf",
         "sound": "https://archive.org/download/touch-the-screen_202408/s.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_34_Callum_pre_s72_sb75_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_11_34_Callum_pre_s72_sb64_t2.mp3",
         "transcription": "[es]"
       },
       {
@@ -218,7 +218,7 @@
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727049094/abc/train_w8iedk.png",
         "description": "train",
         "sound": "https://archive.org/download/touch-the-screen_202408/t.mp3",
-        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_12_29_Callum_pre_s72_sb75_t2.mp3",
+        "soundDescr": "https://archive.org/download/letters-description/ElevenLabs_2024-09-23T12_12_29_Callum_pre_s72_sb64_t2.mp3",
         "transcription": "[ti:]"
       },
       {
@@ -525,6 +525,68 @@
         "category": "animal",
         "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1725529117/animals/2-rabbit.png",
         "sound": "https://archive.org/download/horse_202409/rabbit.mp3"
+      }
+    ],
+    "activity": [
+      {
+        "name": "Swinging",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541858/activity/6-min_qe8nox.png",
+        "sound": "https://archive.org/download/activity_202409/Swinging.mp3"
+      },
+      {
+        "name": "Jump Rope",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541859/activity/17-min_h4qi6q.png",
+        "sound": "https://archive.org/download/activity_202409/Jump%20Rope.mp3"
+      },
+      {
+        "name": "Fly a Kite",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541859/activity/8-min_b7feds.png",
+        "sound": "https://archive.org/download/activity_202409/Fly%20a%20Kite.mp3"
+      },
+      {
+        "name": "Ride a Bike",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541859/activity/13-min_teipsw.png",
+        "sound": "https://archive.org/download/activity_202409/Ride%20a%20Bike.mp3"
+      },
+      {
+        "name": "Play Football",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541859/activity/15-min_tdygmw.png",
+        "sound": "https://archive.org/download/activity_202409/Play%20Football.mp3"
+      },
+      {
+        "name": "Play Basketball",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541859/activity/5-min_nd9tcv.png",
+        "sound": "https://archive.org/download/activity_202409/Play%20Basketball.mp3"
+      },
+      {
+        "name": "Rock Climbing",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541858/activity/7-min_kvylvi.png",
+        "sound": "https://archive.org/download/activity_202409/Rock%20Climbing.mp3"
+      },
+      {
+        "name": "Swinging on a Swing",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541858/activity/11-min_ttpz2m.png",
+        "sound": "https://archive.org/download/activity_202409/Swinging%20on%20a%20Swing.mp3"
+      },
+      {
+        "name": "Hold a Cube",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541858/activity/9-min_jwvxtr.png",
+        "sound": "https://archive.org/download/activity_202409/Hold%20a%20Cube.mp3"
+      },
+      {
+        "name": "Ride a Scooter",
+        "category": "activity",
+        "imageUrl": "https://res.cloudinary.com/dkqxaid79/image/upload/v1727541858/activity/16-min_fdlcky.png",
+        "sound": "https://archive.org/download/activity_202409/Ride%20a%20Scooter.mp3"
       }
     ]
   },
