@@ -50,6 +50,16 @@ const animalsSchema = new Schema(
   },
   { _id: true },
 );
+// Scheme for activity with automatic creation of _id
+const activitySchema = new Schema(
+  {
+    name: String,
+    category: String,
+    imageUrl: String,
+    sound: String,
+  },
+  { _id: true },
+);
 
 // Scheme for stage_a
 const stageASchema = new Schema(
@@ -58,6 +68,7 @@ const stageASchema = new Schema(
     colors: [colorsSchema],
     numbers: [numbersSchema],
     animals: [animalsSchema],
+    activity: [activitySchema],
   },
   { _id: false },
 );
